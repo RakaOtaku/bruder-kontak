@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\Admin\ContactController as AdminContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,3 +33,6 @@ Route::get('/program', function () {
 });
 
 Route::resource('kontak-kami', ContactController::class);
+Route::prefix('admin')->group(function () {
+    Route::resource('kontak', AdminContactController::class);
+});
