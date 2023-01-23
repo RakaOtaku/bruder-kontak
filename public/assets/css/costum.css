@@ -1,0 +1,189 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar .nav-item .nav-link {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #C74B50;
+}
+
+.navbar .nav-item .nav-link:active {
+  font-weight: bold;
+  color: #C74B50;
+}
+
+.navbar .nav-item .btn {
+  width: 183px;
+  height: 35px;
+  background: #C74B50;
+  border-radius: 100px;
+  border: none;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.jumbotron .title h1 {
+  font-weight: bold;
+  font-size: 60px;
+  color: #C74B50;
+  margin-top: 45px;
+}
+
+.jumbotron .title p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #D49B54;
+}
+
+.btn {
+  width: 223px;
+  height: 46px;
+  background: #C74B50;
+  border-radius: 100px;
+  border: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.jumbotron .banner {
+  position: absolute;
+  z-index: 1;
+  top: 35px;
+}
+
+.jumbotron .bg {
+  position: relative;
+  margin-left: 85px;
+}
+
+.collection h1 {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 54px;
+  letter-spacing: 0.1em;
+  color: #C74B50;
+}
+
+.collection p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #D49B54;
+}
+
+.collection h3 {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  position: absolute;
+  z-index: 1;
+}
+
+.collection img {
+  position: relative;
+  z-index: -1;
+}
+
+.map h1 {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 54px;
+  letter-spacing: 0.1em;
+  color: #C74B50;
+}
+
+.map p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #D49B54;
+}
+
+.map .title .h2 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 0.1em;
+  color: #D49B54;
+}
+
+footer p {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #D49B54;
+}
+
+.jumbotron .title h1 {
+  font-weight: bold;
+  font-size: 60px;
+  color: #C74B50;
+  margin-top: 45px;
+}
+
+.jumbotron .title p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #D49B54;
+}
+
+.btn2 {
+  width: 223px;
+  height: 46px;
+  background: #C74B50;
+  border-radius: 100px;
+  border: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.btn3 {
+  width: 25px;
+  height: auto;
+  background: #777777;
+  opacity: 0;
+  border-radius: 50px;
+  border: none;
+}
+
+.jumbotron2 .banner {
+  position: relative;
+  z-index: 1;
+  top: 35px;
+}
+
+.jumbotron2 .bg {
+  position: relative;
+  margin-left: 85px;
+}
+
+.jumbotron2 .title h1 {
+  font-weight: bold;
+  font-size: 60px;
+  color: #C74B50;
+  margin-top: 45px;
+}
+
+.jumbotron2 .title p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #545443;
+}
+
+.visimisi .title p {
+  font-weight: 100;
+  font-size: smaller;
+}
+
+.visimisi .title ul {
+  font-weight: 100;
+  font-size: smaller;
+}
+
